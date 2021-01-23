@@ -1,0 +1,6 @@
+Calling ProjMgr.CompileTargets() for C:\Program Files\Crestron\Simpl\Programs\Clients\Manilow\Living 3.0\Display Device Sequence Drive v2.usp
+Returned from ProjMgr.CompileTargets() for <C:\Program Files\Crestron\Simpl\Programs\Clients\Manilow\Living 3.0\Display Device Sequence Drive v2.usp>: Result: 0
+Calling ProjMgr.CompileTargets() for C:\Program Files\Crestron\Simpl\Programs\Clients\Manilow\Living 3.0\Panasonic Plasma Ramping Driver.usp
+Returned from ProjMgr.CompileTargets() for <C:\Program Files\Crestron\Simpl\Programs\Clients\Manilow\Living 3.0\Panasonic Plasma Ramping Driver.usp>: Result: 0
+Calling ProjMgr.LinkTargets()...
+Returned from ProjMgr.LinkTargets(): Result: 0
